@@ -1,0 +1,15 @@
+Metric,Value
+Test Set Size (N),467.0
+Unsteered Baseline Accuracy (%),57.82
+Steered Selective Accuracy (%),62.66
+Steered Coverage (%),85.44
+Abstention Rate Option E (%),14.56
+Total Abstentions (Count),68.0
+True Errors Avoided (Count),41.0
+True Errors Avoided (% of E),60.29
+Sacrificed Correct Answers (Count),27.0
+Empirical Break-Even Cost Ratio (c_crit),0.6585
+Implied Break-Even Confidence Threshold p* (%),39.71
+Mean Hybrid Uncertainty - Answered Correct (%),36.18
+Mean Hybrid Uncertainty - Answered Wrong A-D (%),42.14
+Mean Hybrid Uncertainty - Abstained Option E (%),58.87
